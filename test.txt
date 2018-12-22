@@ -1,0 +1,5 @@
+origin is (100, 300);
+
+scale is (2, 1);
+
+for T from 0 to 2*pi step 0.1 draw (sin (t), cos (t));
